@@ -48,7 +48,7 @@ The best checkpoint was selected using validation Macro F1-score. The test set w
 
 The following screenshots show the project's original development folder structure and the organization of its main components.
 
-![Project Structure – Deep Learning](Screenshots/project_structure_1.png)
+![Project Structure – Deep Learning]("D:\MA\1.png")
 
 ![Project Structure – Dataset and Model Artifacts](Screenshots/project_structure_2.png)
 
